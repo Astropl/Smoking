@@ -1,0 +1,58 @@
+<resources>
+
+    //Stringi do First
+    <string name="app_name">Smoking</string>
+    <string name="naglowek">Naglowek</string>
+    <string name="first_btn_settings">Ustawienia</string>
+    <string name="first_btn_statsy">Statystyki</string>
+    <string name="first_btn_bn2">button 2</string>
+    <string name="first_btn_bn3">button 3</string>
+    <string name="first_btn_bn4">button 4</string>
+    <string name="first_txt_iloscSztuk">0</string>
+    <string name="first_txt_iloscSztuk1">Dzisiaj spaliłem</string>
+    <string name="first_txt_iloscSztukMiesiac">0</string>
+    <string name="first_txt_iloscSztukMiesiac1">Spaliłem w miesiącu</string>
+    <string name="first_txt_iloscWydanejKasy">0,0</string>
+    <string name="first_txt_iloscWydanejKasy1">Wydałem juz na fajki</string>
+    <string name="first_txt_iloscWydanejKasyWMiesiacu">0</string>
+    <string name="first_txt_iloscWydanejKasyWMiesiacu1">Wydałem w miesiącu</string>
+    <string name="statystyki">Statystyki</string>
+    <string name="btnFirst">Obraz</string>
+    <string name="btnTest1">button Test 1</string>
+    <string name="first_txt_dzisiaj">DZISIAJ JEST: </string>
+    <string name="first_txt_dzisiaj1">0000:00:00 </string>
+    <string name="first_btn_diary">DIARY</string>
+
+    //Stringi do Ustawienia
+    <string name="ustawienia_txt_naglowek">USTAWIENIA</string>
+    <string name="ustawienia_btn_back">WSTECZ</string>
+    <string name="ustawienia_btn_save">SAVE</string>
+    <string name="ustawienia_txt_cenaZaPaczke">0,0</string>
+    <string name="ustawienia_txt_cenaZaPaczke1">CENA ZA PACZKĘ</string>
+    <string name="ustawienia_txt_iloscWPaczce">0</string>
+    <string name="ustawienia_txt_iloscWPaczce1">ILOŚĆ W PACZCE</string>
+    <string name="ustawienia_btnSave">SAVE</string>
+    <string name="ustawienia_txt_nazwaPaczki"></string>
+    <string name="ustawienia_txt_nazwaPaczki1">NAZWA PACZKI</string>
+    <string name="dlugoscFajki">100</string>
+    <string name="dlugoscFajki1">DLUGOŚĆ PAPIEROSA</string>
+
+    //Stringi do Statystyki
+    <string name="statystyki_txt_naglowek">STATYSTYKI</string>
+    <string name="statystyki_btn_back">WSTECZ</string>
+    <string name="statystyki_btn_spalone">SPALONE</string>
+    <string name="statystyki_btn_kasa">KASA</string>
+    <string name="statystyki_txt_spaloneInfo">ILE SPALIŁEM</string>
+    <string name="statystyki_txt_spalone1">Dzisiaj: </string>
+    <string name="statystyki_ButtonTemp">TEMP </string>
+    <string name="statystyki_txt_dzisiajInfo">DZISIAJ: </string>
+    <string name="statystyki_txt_dzisiajInfo1">0</string>
+    <string name="statystyki_txt_tydzienInfo">W TYGODNIU </string>
+    <string name="statystyki_txt_tydzienInfo1">0 </string>
+    <string name="statystyki_txt_miesiacInfo">W MIESIĄCU </string>
+    <string name="statystyki_txt_miesiacInfo1">0 </string>
+    <string name="statystyki_txt_wszystkieInfo">WSZYSTKIE </string>
+    <string name="statystyki_txt_wszystkieInfo1">0 </string>
+    <string name="statystyki_txt_spalone2">TextTemp2</string>
+
+</resources>
